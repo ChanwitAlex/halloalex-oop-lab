@@ -1,3 +1,2 @@
  # Hello word 
-my name is CHanwit Unsakul
-my ID 673450187-3
+my name is CHanwit Unsakul , ID 673450187-3
