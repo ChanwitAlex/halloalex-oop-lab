@@ -1,0 +1,15 @@
+D:\01lex\halloalex-oop-lab\Alex\bin\Debug\net8.0\Alex.exe
+D:\01lex\halloalex-oop-lab\Alex\bin\Debug\net8.0\Alex.deps.json
+D:\01lex\halloalex-oop-lab\Alex\bin\Debug\net8.0\Alex.runtimeconfig.json
+D:\01lex\halloalex-oop-lab\Alex\bin\Debug\net8.0\Alex.dll
+D:\01lex\halloalex-oop-lab\Alex\bin\Debug\net8.0\Alex.pdb
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.GeneratedMSBuildEditorConfig.editorconfig
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.AssemblyInfoInputs.cache
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.AssemblyInfo.cs
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.csproj.CoreCompileInputs.cache
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.sourcelink.json
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.dll
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\refint\Alex.dll
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.pdb
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\Alex.genruntimeconfig.cache
+D:\01lex\halloalex-oop-lab\Alex\obj\Debug\net8.0\ref\Alex.dll
